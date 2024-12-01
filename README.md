@@ -7,6 +7,9 @@ Inspired by [the original Flutter implementation](https://flutterwidgethub.com/c
 ### This is how it looks 📸
 
 
+https://github.com/user-attachments/assets/d4c83724-551a-4a25-a452-d2186c4608fc
+
+
 
 ## 🛠️ Tech Stack
 
